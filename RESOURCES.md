@@ -2,6 +2,55 @@
 
 The plan pins specific YouTube videos per day (see day-XX.html pages). This file is the master list of *where* those videos come from — so if a pinned video is stale, you know where to look for a replacement.
 
+## 7-Sprint framework videos (drop URLs here)
+
+The dashboard's top section maps to Outskill's 7-sprint outcome ladder. Each sprint has one primary walkthrough video — drop URLs below and update the corresponding `<a data-yt="sprint-N" href="…">` in `index.html`.
+
+| Sprint | Outcome                                                         | YouTube URL     |
+|-------:|-----------------------------------------------------------------|-----------------|
+|   1    | Build Scalable AI-Powered Automated Workflows                   | _add URL here_  |
+|   2    | Build and Deploy AI-Powered Chat Applications                   | _add URL here_  |
+|   3    | Build End-to-End RAG-Based AI Systems                           | _add URL here_  |
+|   4    | Build and Scale Advanced Agentic AI Systems                     | _add URL here_  |
+|   5    | Build an Agentic Runtime                                        | _add URL here_  |
+|   6    | Build an Autonomous AI Coding Agent (LangChain / LangGraph / LangSmith / Codex) | _add URL here_  |
+|   7    | Build & Launch a Production-Ready GenAI Product                 | _add URL here_  |
+
+## AI framework overviews (drop URLs here)
+
+Each framework category card links to a `data-yt="framework-…"` slot in `index.html`.
+
+| Category                       | Tools listed                                                             | YouTube URL     |
+|--------------------------------|--------------------------------------------------------------------------|-----------------|
+| LLM Frameworks                 | LangChain · LangGraph · LlamaIndex · Hugging Face                        | _add URL here_  |
+| Model Serving & Inference      | vLLM · Ollama · FastAPI · LangServe · Modal · Replicate                  | _add URL here_  |
+| Agent Tool Calling             | Composio · Smithery · OpenAI Tool Calling                                | _add URL here_  |
+| Retrieval / Vector Storage     | LanceDB · Pinecone · Weaviate · Milvus                                   | _add URL here_  |
+| Frontend / UI for AI Apps      | Gradio · Streamlit · Next.js + OpenAI Realtime                           | _add URL here_  |
+| Multi-Agent Frameworks         | LangGraph · CrewAI · AutoGen · OpenAI Realtime API · LlamaIndex Agents   | _add URL here_  |
+
+## Featured project walkthroughs (drop URLs here)
+
+Om Asnani's AI Accelerator project cards. Each links to a `data-yt="project-N"` slot in `index.html`.
+
+| # | Project                              | Examples                              | YouTube URL     |
+|--:|--------------------------------------|---------------------------------------|-----------------|
+| 2 | Browser Automation Agent             | Comet · Atlas                         | _add URL here_  |
+| 4 | AI OPs Incident Response Agent       | Datadog Watchdog                      | _add URL here_  |
+| 5 | Cybersecurity Threat Detection Agent | CrowdStrike Falcon · MS Sentinel      | _add URL here_  |
+
+## Tools & workflows deep-dives (drop URLs here)
+
+Two playlist slots — one per card in the deep-dive section.
+
+| Playlist            | Covers                                                                                                            | YouTube URL     |
+|---------------------|-------------------------------------------------------------------------------------------------------------------|-----------------|
+| Tool deep-dives     | ChatGPT · Claude · NotebookLM · Perplexity · Gemini · Notion · Google AI Studio · Make · Manus · Hugging Face · Zapier · Copilot · Genspark | _add URL here_ |
+| Workflow deep-dives | Automation · DB · Testing/QA · Cloud arch · APIs · Microservices · Network security · Docs · Log analysis · Code reviews · PM | _add URL here_ |
+
+---
+
+
 ## YouTube channels (curated)
 
 ### Foundations
