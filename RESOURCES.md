@@ -113,6 +113,7 @@ Two playlist slots — one per card in the deep-dive section.
 - **Runway** — https://docs.dev.runwayml.com
 - **Bolt.new** — https://bolt.new
 - **Lovable** — https://lovable.dev
+- **Base44** — https://base44.com (Wix-owned AI app builder — natural-language → full-stack app; sits alongside Bolt/Lovable in the Day 25 scaffold comparison)
 
 ---
 
