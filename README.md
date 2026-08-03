@@ -1,6 +1,8 @@
 # AI Generalist — 30-Day Self-Directed Learning Plan
 
-**Start here:** open [`index.html`](index.html) in Chrome.
+![AI Generalist — 30-Day Plan](preview.png)
+
+**Live site:** https://emailworksfdc-wq.github.io/AI-Generalist/ · **Start locally:** open [`index.html`](index.html) or run `./start.sh`.
 
 The site is video-first — every day-page has embedded YouTube players you can watch inline, plus a 60-min build task feeding one of 5 signature builds.
 
